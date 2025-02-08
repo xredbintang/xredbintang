@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Halo, Saya Xreddd! 👋  
 
 Saya seorang pelajar di SMK Negeri 6 yang sedang menekuni bidang teknologi, khususnya di Web Development. Saat ini, saya sedang belajar berbagai hal seputar pengembangan web dengan harapan menjadi seorang Web Developer profesional di masa depan.
@@ -9,7 +9,7 @@ Saya seorang pelajar di SMK Negeri 6 yang sedang menekuni bidang teknologi, khus
   - Backend Development.
 
 ## 📖 Perjalanan Belajar
-- Menguasai dasar-dasar pemrograman web seperti HTML, CSS, dan JavaScript.
+- Menguasai DASAR-DASAR pemrograman web seperti HTML, CSS, dan JavaScript.
 - Mendalami framework PHP Laravel untuk pengembangan aplikasi web modern.
 - Membuat berbagai proyek CRUD sederhana sebagai latihan.
 
