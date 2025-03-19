@@ -1,21 +1,20 @@
 # About Me:
-Halo, Saya Xreddd! 👋  
+Halo, Saya Xreddd! 
 
 Saya seorang pelajar di SMK Negeri 6 yang sedang menekuni bidang teknologi, khususnya di Web Development. Saat ini, saya sedang belajar berbagai hal seputar pengembangan web dengan harapan menjadi seorang Web Developer profesional di masa depan.
 
-## 🚀 Visi dan Impian
-- 🌟 Saya bercita-cita untuk bekerja di perusahaan besar seperti Shopee, Tokopedia, atau perusahaan teknologi lainnya.
-- 🎯 Fokus saya saat ini adalah meningkatkan kemampuan dalam:
+- Fokus saya saat ini adalah meningkatkan kemampuan dalam:
   - Backend Development.
 
-## 📖 Perjalanan Belajar
+## Perjalanan Belajar
 - Menguasai DASAR-DASAR pemrograman web seperti HTML, CSS, dan JavaScript.
-- Mendalami framework PHP Laravel untuk pengembangan aplikasi web modern.
+- Mendalami Laravel untuk pengembangan aplikasi web modern.
+- Untuk sekarang Mendalami Load balancing, scaling, rate limiting, docker, queue, monolith dan websocket
 - Membuat berbagai proyek CRUD sederhana sebagai latihan.
 
 Terima kasih telah mengunjungi profil saya!  
 
-# 💻 Tech Stack:
+# Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -27,6 +26,6 @@ Terima kasih telah mengunjungi profil saya!
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)  
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-💌 Jangan ragu untuk menghubungi saya jika ingin berdiskusi atau berbagi pengalaman belajar.
+Jangan ragu untuk menghubungi saya jika ingin berdiskusi atau berbagi pengalaman belajar.
